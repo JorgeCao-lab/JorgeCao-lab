@@ -42,10 +42,7 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-![Estadísticas de Jorge](https://github-readme-stats.vercel.app/api?username=JorgeCao-lab&show_icons=true&theme=tokyonight)
 
----
 
 ## 📫 Conectemos
 ¿Te interesa la ciberseguridad o el desarrollo web? ¡Hablemos!
